@@ -1,0 +1,339 @@
+.frame1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 2344px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1530px;
+  height: 2344px;
+  position: absolute;
+}
+.frame1-image2 {
+  top: 714px;
+  left: 95px;
+  width: 530px;
+  height: 399px;
+  position: absolute;
+}
+.frame1-image3 {
+  top: 1695px;
+  left: 295px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+.frame1-image4 {
+  top: 1242px;
+  left: 935px;
+  width: 530px;
+  height: 399px;
+  position: absolute;
+}
+.frame1-image5 {
+  top: 1694px;
+  left: 837px;
+  width: 400px;
+  height: 401px;
+  position: absolute;
+}
+.frame1-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 1530px;
+  height: 637px;
+  position: absolute;
+}
+.frame1-image6 {
+  top: 153px;
+  left: 426px;
+  width: 709px;
+  height: 399px;
+  position: absolute;
+}
+.frame1-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1530px;
+  height: 94px;
+  position: absolute;
+}
+.frame1-image202312201045571 {
+  top: 31px;
+  left: 26px;
+  width: 161px;
+  height: 38px;
+  position: absolute;
+}
+.frame1-text {
+  top: 31px;
+  left: 244px;
+  color: rgba(245, 167, 2, 1);
+  width: 313px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text02 {
+  top: 31px;
+  left: 1402px;
+  color: rgba(245, 166, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.frame1-text04 {
+  top: 31px;
+  left: 1192px;
+  color: rgba(245, 166, 0, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.frame1-text06 {
+  top: 31px;
+  left: 978px;
+  color: rgba(245, 166, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.frame1-text11 {
+  top: 854px;
+  left: 678px;
+  color: rgba(0, 0, 0, 1);
+  width: 772px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text12 {
+  color: rgba(0, 0, 0, 1);
+}
+.frame1-text16 {
+  color: rgba(0, 45, 85, 1);
+}
+.frame1-text24 {
+  top: 1331px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  width: 729px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-text25 {
+  text-decoration: NONE;
+}
+.frame1-text26 {
+  text-decoration: UNDERLINE;
+}
+.frame1-text28 {
+  top: 714px;
+  left: 678px;
+  color: rgb(0, 0, 0);
+  width: 811px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: "Kodchasan";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.frame1-text29 {
+  top: 1242px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  width: 754px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1-rectangle4 {
+  top: 2162px;
+  left: 0px;
+  width: 1530px;
+  height: 182px;
+  position: absolute;
+}
+.frame1-tvit {
+  top: 2191px;
+  left: 787px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1-rectangle7 {
+  top: 6.25px;
+  left: 5.625px;
+  width: 39px;
+  height: 37px;
+  position: absolute;
+}
+.frame1-image7 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.frame1-telegram {
+  top: 2191px;
+  left: 603px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1-rectangle5 {
+  top: 6.25px;
+  left: 5px;
+  width: 39px;
+  height: 37px;
+  position: absolute;
+}
+.frame1-image9 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.frame1-vk {
+  top: 2191px;
+  left: 695px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1-rectangle8 {
+  top: 6.25px;
+  left: 5.625px;
+  width: 39px;
+  height: 37px;
+  position: absolute;
+}
+.frame1-image8 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.frame1-text31 {
+  top: 2253px;
+  left: 665px;
+  color: rgba(255, 255, 255, 1);
+  width: 223px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kodchasan;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.frame1-insta {
+  top: 2191px;
+  left: 879px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1-rectangle6 {
+  top: 6.25px;
+  left: 5.625px;
+  width: 39px;
+  height: 37px;
+  position: absolute;
+}
+.frame1-image10 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
